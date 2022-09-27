@@ -26,6 +26,7 @@ const Contact = () => {
     </div>
   </Wrapper>
 }
+
 const Wrapper = styled.section`
   padding: 5rem 0;
   h3 {

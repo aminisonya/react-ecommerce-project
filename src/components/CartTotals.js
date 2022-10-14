@@ -34,9 +34,6 @@ const CartTotals = () => {
             login
           </button>
         )}
-        <Link to='/checkout' className='btn'>
-          proceed to checkout
-        </Link>
       </div>
     </Wrapper>
   )
